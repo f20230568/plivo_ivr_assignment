@@ -1,0 +1,19 @@
+{
+  "name": "inspireworks-plivo-ivr",
+  "version": "1.0.0",
+  "description": "Multi-level IVR demonstration using Plivo Voice API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "plivo": "^4.75.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
